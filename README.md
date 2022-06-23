@@ -2,7 +2,9 @@
 
 **需要完整代码可以加qq  931708230 或者加微信  ynwwxid**
 
-在线测试与论文管理系统
+ssm在线测试与论文管理系统
+
+#程序员 #java #毕业设计 #在线测试与论文管理系统 #ssm #课程设计 #编程 #bootstrap #mybatis #jsp#源代码
 
 #说明:
 前端基于easyui + bootstrap,后端基于ssm+jsp+mysql
